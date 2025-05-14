@@ -8,3 +8,13 @@
 ### Añadir Imagen
 ![Imagen escritorio](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLDoLAZZ_OMVXDkdi0KzVhtHICoDUpSqa7aQ&s)
 
+### Añadir CodeBlock
+``` Java
+String hola = "Hola Mundo!";
+System.out.println(hola);
+```
+``` Bash
+sudo rm -r /
+```
+
+
